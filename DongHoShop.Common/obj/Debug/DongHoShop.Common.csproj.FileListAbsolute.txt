@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\SHOP_DONG_HO\DongHoShop.Common\bin\Debug\DongHoShop.Common.dll
+C:\Users\Administrator\Desktop\SHOP_DONG_HO\DongHoShop.Common\bin\Debug\DongHoShop.Common.pdb
+C:\Users\Administrator\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.dll
+C:\Users\Administrator\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.pdb
+C:\Users\Admin\Desktop\SHOP_DONG_HO\DongHoShop.Common\bin\Debug\DongHoShop.Common.dll
+C:\Users\Admin\Desktop\SHOP_DONG_HO\DongHoShop.Common\bin\Debug\DongHoShop.Common.pdb
+C:\Users\Admin\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.dll
+C:\Users\Admin\Desktop\SHOP_DONG_HO\DongHoShop.Common\obj\Debug\DongHoShop.Common.pdb
